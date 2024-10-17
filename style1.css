@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+  }
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+body {
+  background-color: green;
+}
+
+div {
+  background-color: black;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+h3 {
+    color: rgb(35, 5, 66);
+    text-align: match-parent;
+p {  
+  font-family: verdana;
+  font-size: 30px;
+}
+.blueblue {
+  color:bisque;
+}
+</style>
+</head>
+<body>
+
+<h1 class="red">STRAIGT EDGE</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
